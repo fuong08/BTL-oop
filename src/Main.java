@@ -7,4 +7,3 @@ public class Main {
         System.out.printf("Hello Huyen va Manh beo");
         }
     }
-}
