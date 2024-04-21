@@ -1,4 +1,4 @@
-package abc;
+package main;
 
 public class eeee {
 }
